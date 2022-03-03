@@ -96,6 +96,10 @@ value of `"X"`.
 
 ## CHANGELOG
 
+### 0.3.0
+
+- add new one-to-one char replacement script
+
 ### 0.2.2
 
 - Fix a bug in CLI argument handling for all hooks
