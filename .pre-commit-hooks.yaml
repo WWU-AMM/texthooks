@@ -19,6 +19,6 @@
 - id: replace-characters
   name: Replace hardcoded list of characters
   description: 'replace characters one-to-one'
-  entry: replace_characters
+  entry: replace-characters
   language: python
   types: [text]
